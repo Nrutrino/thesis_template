@@ -1,2 +1,2 @@
 # thesis_template
-University of Nottingham Thesis Template 
+This is a thesis template for the PhD students of University of Nottingham
